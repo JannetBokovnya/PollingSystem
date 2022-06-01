@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollingSystem.Entities", "Polling.System.Entities\PollingSystem.Entities.csproj", "{1E576953-16B7-4919-B179-6E6DACDB1575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollingSystem.ConsoleClient", "PollingSystem.ConsoleClient\PollingSystem.ConsoleClient.csproj", "{CA6EC929-9445-4EB8-AE13-525C8E78E33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E576953-16B7-4919-B179-6E6DACDB1575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E576953-16B7-4919-B179-6E6DACDB1575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E576953-16B7-4919-B179-6E6DACDB1575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E576953-16B7-4919-B179-6E6DACDB1575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6EC929-9445-4EB8-AE13-525C8E78E33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6EC929-9445-4EB8-AE13-525C8E78E33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6EC929-9445-4EB8-AE13-525C8E78E33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6EC929-9445-4EB8-AE13-525C8E78E33D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51258B66-1A33-4643-AC40-26405D5B29FE}
+	EndGlobalSection
+EndGlobal
