@@ -1,4 +1,3 @@
-C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\obj\Debug\net5.0\PollingSystem.Entities.csproj.AssemblyReference.cache
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\obj\Debug\net5.0\PollingSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\obj\Debug\net5.0\PollingSystem.Entities.AssemblyInfoInputs.cache
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\obj\Debug\net5.0\PollingSystem.Entities.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\bin\D
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\obj\Debug\net5.0\PollingSystem.Entities.dll
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\obj\Debug\net5.0\ref\PollingSystem.Entities.dll
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\obj\Debug\net5.0\PollingSystem.Entities.pdb
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\Polling.System.Entities\obj\Debug\net5.0\PollingSystem.Entities.csproj.AssemblyReference.cache

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Polling.System.Entities\PollingSystem.Entities.csproj" />
+    <ProjectReference Include="..\PollingSystem.Application\PollingSystem.Application.csproj" />
   </ItemGroup>
 
 </Project>

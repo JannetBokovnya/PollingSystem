@@ -8,10 +8,18 @@
     ".NETCoreApp,Version=v5.0": {
       "PollingSystem.ConsoleClient/1.0.0": {
         "dependencies": {
-          "PollingSystem.Entities": "1.0.0"
+          "PollingSystem.Application": "1.0.0"
         },
         "runtime": {
           "PollingSystem.ConsoleClient.dll": {}
+        }
+      },
+      "PollingSystem.Application/1.0.0": {
+        "dependencies": {
+          "PollingSystem.Entities": "1.0.0"
+        },
+        "runtime": {
+          "PollingSystem.Application.dll": {}
         }
       },
       "PollingSystem.Entities/1.0.0": {
@@ -23,6 +31,11 @@
   },
   "libraries": {
     "PollingSystem.ConsoleClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PollingSystem.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

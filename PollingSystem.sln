@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollingSystem.Entities", "Polling.System.Entities\PollingSystem.Entities.csproj", "{1E576953-16B7-4919-B179-6E6DACDB1575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PollingSystem.Entities", "Polling.System.Entities\PollingSystem.Entities.csproj", "{1E576953-16B7-4919-B179-6E6DACDB1575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollingSystem.ConsoleClient", "PollingSystem.ConsoleClient\PollingSystem.ConsoleClient.csproj", "{CA6EC929-9445-4EB8-AE13-525C8E78E33D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PollingSystem.ConsoleClient", "PollingSystem.ConsoleClient\PollingSystem.ConsoleClient.csproj", "{CA6EC929-9445-4EB8-AE13-525C8E78E33D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PollingSystem.Application", "PollingSystem.Application\PollingSystem.Application.csproj", "{78A39A4D-0470-4B58-AAC2-F9DF9F598304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollingSystem.Web", "PollingSystem.Web\PollingSystem.Web.csproj", "{C8F658D8-A698-478F-A2FB-A5BB9550313B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{CA6EC929-9445-4EB8-AE13-525C8E78E33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA6EC929-9445-4EB8-AE13-525C8E78E33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA6EC929-9445-4EB8-AE13-525C8E78E33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A39A4D-0470-4B58-AAC2-F9DF9F598304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A39A4D-0470-4B58-AAC2-F9DF9F598304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A39A4D-0470-4B58-AAC2-F9DF9F598304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A39A4D-0470-4B58-AAC2-F9DF9F598304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F658D8-A698-478F-A2FB-A5BB9550313B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F658D8-A698-478F-A2FB-A5BB9550313B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F658D8-A698-478F-A2FB-A5BB9550313B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F658D8-A698-478F-A2FB-A5BB9550313B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

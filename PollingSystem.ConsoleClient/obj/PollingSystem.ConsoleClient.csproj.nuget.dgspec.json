@@ -61,6 +61,87 @@
         }
       }
     },
+    "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\PollingSystem.Application\\PollingSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\PollingSystem.Application\\PollingSystem.Application.csproj",
+        "projectName": "PollingSystem.Application",
+        "projectPath": "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\PollingSystem.Application\\PollingSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
+        "outputPath": "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\PollingSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Dima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\Polling.System.Entities\\PollingSystem.Entities.csproj": {
+                "projectPath": "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\Polling.System.Entities\\PollingSystem.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\PollingSystem.ConsoleClient\\PollingSystem.ConsoleClient.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -88,8 +169,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\Polling.System.Entities\\PollingSystem.Entities.csproj": {
-                "projectPath": "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\Polling.System.Entities\\PollingSystem.Entities.csproj"
+              "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\PollingSystem.Application\\PollingSystem.Application.csproj": {
+                "projectPath": "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\PollingSystem.Application\\PollingSystem.Application.csproj"
               }
             }
           }

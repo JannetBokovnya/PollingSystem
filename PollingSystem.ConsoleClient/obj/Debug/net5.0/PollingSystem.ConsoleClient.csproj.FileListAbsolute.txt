@@ -17,3 +17,5 @@ C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.ConsoleClient\o
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.ConsoleClient\obj\Debug\net5.0\ref\PollingSystem.ConsoleClient.dll
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.ConsoleClient\obj\Debug\net5.0\PollingSystem.ConsoleClient.pdb
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.ConsoleClient\obj\Debug\net5.0\PollingSystem.ConsoleClient.genruntimeconfig.cache
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.ConsoleClient\bin\Debug\net5.0\PollingSystem.Application.dll
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.ConsoleClient\bin\Debug\net5.0\PollingSystem.Application.pdb
