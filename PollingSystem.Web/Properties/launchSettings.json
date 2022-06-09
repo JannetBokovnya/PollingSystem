@@ -2,8 +2,7 @@
   //удаляем iis
 
   "profiles": {
-
-    "Kestrel": {
+    "PollingSystem.Web": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
@@ -13,5 +12,5 @@
       }
     }
   }
-  }
+  
 }

@@ -43,23 +43,23 @@ poll.VoteTo(Guid.Parse("9ebb2234-75cb-eeb2-4fed-1774318d9ce8"), 10);
 //poll.VoteTo(4);
 //poll.VoteTo(4, 10);
 
-//хотим поместить в базу данных
-using (var context=new ApplicationDbContext())
-{
-    //сделать конфигурацию в dbcontexte(в режиме памяти, т.к. пока там работаем)
-    context.Polls.Add(poll);
-    context.SaveChanges();
+////хотим поместить в базу данных
+//using (var context=new ApplicationDbContext())
+//{
+//    //сделать конфигурацию в dbcontexte(в режиме памяти, т.к. пока там работаем)
+//    context.Polls.Add(poll);
+//    context.SaveChanges();
 
-}
-//проверка что записалось в базу
-using (var context = new ApplicationDbContext())
-{
-    foreach(var answer in context.Answers)
-    {
-        Console.WriteLine(answer.Title);
-    }
+//}
+////проверка что записалось в базу
+//using (var context = new ApplicationDbContext())
+//{
+//    foreach(var answer in context.Answers)
+//    {
+//        Console.WriteLine(answer.Title);
+//    }
 
-}
+//}
 var result = builder.GetResults(poll);
 
 Console.WriteLine(result.GetView());

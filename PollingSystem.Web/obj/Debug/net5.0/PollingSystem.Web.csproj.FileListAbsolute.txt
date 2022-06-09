@@ -72,3 +72,5 @@ C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Web\obj\Debug\n
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Web\obj\Debug\net5.0\ref\PollingSystem.Web.dll
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Web\obj\Debug\net5.0\PollingSystem.Web.pdb
 C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Web\obj\Debug\net5.0\PollingSystem.Web.genruntimeconfig.cache
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

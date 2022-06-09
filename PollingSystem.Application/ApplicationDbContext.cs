@@ -17,7 +17,19 @@ namespace PollingSystem.Application
 
         public DbSet<PollAnswer> Answers { get; set; }
 
-        ////т.к. работаем в режиме памяти то можно конфигурацию сделать override
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
+        {
+
+        }
+
+        //конфигурация таблиц в базе, потом вызываем update-database
+        protected override void OnModelCreating(ModelBuilder modelbuilder)
+        {
+            base.OnModelCreating(modelbuilder);
+            modelbuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+        }
+
+        ////т.к. работаем в режиме памяти то можно конфигурацию сделать override подключаем пакет inmemory
 
         //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //{
