@@ -1,0 +1,15 @@
+﻿@page
+@using PollingSystem.BlazorLib
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model PollingSystem.Web.Pages.Polls.CreateModel
+@{
+    ViewBag.Title = "Создание нового голосования";
+}
+<h1>@ViewData["Title"]</h1>
+
+<component type="typeof(Component1)"render-mode="ServerPrerendered"></component>
+
+@section Scripts
+{
+    <script src="_framework/blazor.server.js"></script>
+}
