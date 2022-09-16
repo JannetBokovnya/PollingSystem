@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsTzVgfRnHPqoeLbAGNTfcdoWOZtopKIYMZoqHI0wnM6Lqn3p02MrMfUvz1SYVjQ5ipKVZ9ET3kLesd4TJy6yg==",
+  "success": true,
+  "projectFilePath": "C:\\Janet_App\\My_Project\\Core\\Polling\\PollingSystem\\PollingSystem.Contracts\\PollingSystem.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dima\\.nuget\\packages\\operationresultcore\\3.0.1\\operationresultcore.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

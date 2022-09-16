@@ -1,0 +1,12 @@
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\bin\Debug\net5.0\PollingSystem.Contracts.deps.json
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\bin\Debug\net5.0\PollingSystem.Contracts.dll
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\bin\Debug\net5.0\ref\PollingSystem.Contracts.dll
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\bin\Debug\net5.0\PollingSystem.Contracts.pdb
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\obj\Debug\net5.0\PollingSystem.Contracts.csproj.AssemblyReference.cache
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\obj\Debug\net5.0\PollingSystem.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\obj\Debug\net5.0\PollingSystem.Contracts.AssemblyInfoInputs.cache
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\obj\Debug\net5.0\PollingSystem.Contracts.AssemblyInfo.cs
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\obj\Debug\net5.0\PollingSystem.Contracts.csproj.CoreCompileInputs.cache
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\obj\Debug\net5.0\PollingSystem.Contracts.dll
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\obj\Debug\net5.0\ref\PollingSystem.Contracts.dll
+C:\Janet_App\My_Project\Core\Polling\PollingSystem\PollingSystem.Contracts\obj\Debug\net5.0\PollingSystem.Contracts.pdb
